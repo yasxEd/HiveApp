@@ -299,7 +299,7 @@ class _LoginPageState extends State<LoginPage> {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       Text(
-                        'Made by Bousseba Yasser',
+                        'Made by yasxEd',
                         style: GoogleFonts.poppins(
                           // Apply Poppins font
                           textStyle: TextStyle(
