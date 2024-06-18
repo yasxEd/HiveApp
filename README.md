@@ -1,6 +1,6 @@
 # Smart Home App
 
-Welcome to the Smart Home App! This app allows you to control and monitor your smart home devices with ease. 
+Welcome to Hive App! This app allows you to control and monitor your smart home devices with ease. 
 
 <img src="lib/HiveScreenshots&Vid/logo.png" alt="Home Screen" width="200">
 
@@ -16,8 +16,8 @@ Welcome to the Smart Home App! This app allows you to control and monitor your s
 
 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/your-username/smart-home-app.git
-    cd smart-home-app
+    git clone 
+    cd 
     ```
 
 2. **Install Dependencies**
@@ -52,10 +52,3 @@ Welcome to the Smart Home App! This app allows you to control and monitor your s
   <img src="lib/HiveScreenshots&Vid/Screenshot_1696040352-portrait.png" alt="Settings" width="180">
   <img src="lib/HiveScreenshots&Vid/Screenshot_1696040361-portrait.png" alt="Settings" width="180">
 </div>
-
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or feedback, please feel free to [open an issue](https://github.com/your-username/smart-home-app/issues) or reach out to us at your-email@example.com.
