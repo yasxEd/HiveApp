@@ -1,4 +1,20 @@
-# Smart Home App
+## About Flutter
+
+Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase.
+
+<p float="left">
+  <img src="https://vinncorp.com/wp-content/uploads/2023/01/image-13.png" alt="Flutter Logo" width="1000" />
+</p>
+
+### Why Choose Flutter?
+
+- **Fast Development**: Flutter’s hot reload helps you quickly and easily experiment, build UIs, add features, and fix bugs faster.
+- **Expressive and Flexible UI**: Quickly ship features with a focus on native end-user experiences. Layered architecture allows for full customization, which results in incredibly fast rendering and expressive and flexible designs.
+- **Native Performance**: Flutter’s widgets incorporate all critical platform differences such as scrolling, navigation, icons, and fonts to provide full native performance on both iOS and Android.
+
+<br>
+
+# Hive App
 
 Welcome to Hive App! This app allows you to control and monitor your smart home devices with ease. 
 
@@ -11,6 +27,8 @@ Welcome to Hive App! This app allows you to control and monitor your smart home 
 - **Automation**: Set up automation rules to make your home smarter.
 - **User-friendly Interface**: Easy to navigate interface for all age groups.
 - **Remote Access**: Control your home from anywhere in the world.
+
+  <br>
 
 ## Installation
 
@@ -30,11 +48,15 @@ Welcome to Hive App! This app allows you to control and monitor your smart home 
     flutter run
     ```
 
+<br>
+
 ## Usage
 
 1. **Sign Up / Login**: Create a new account or log in with your existing credentials.
 2. **Add Devices**: Add your smart home devices using the app.
 3. **Control and Monitor**: Use the app to control and monitor your devices.
+
+<br>
 
 ## Screenshots
 
